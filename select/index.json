@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ダダガー・ダンダント",
+  "base_artist": "PELICAN FANCLUB",
+  "createdAt": "2026-01-03T11:48:34.046052Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ダダガー・ダンダント",
+      "artist": "PELICAN FANCLUB",
+      "has_synced": false,
+      "path": "select/pl_01_ダダガー・ダンダント_PELICAN_FANCLUB.txt"
+    }
+  ]
+}
